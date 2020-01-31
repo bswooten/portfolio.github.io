@@ -1,0 +1,111 @@
+/* Global Styles
+-------------------------------*/
+body {
+    color: #0074a1;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+h1, h2 {
+font-family: 'Alfa Slab One', cursive;
+}
+
+img {
+    width: 300px;
+}
+a:link {
+    color: green;
+}
+a:hover {
+    text-decoration: none;
+}
+
+/* Profile
+-------------------------------*/
+.header {
+    background-color: gold;
+    color: black;
+}
+.Wooten-Logo {
+    width: 215px;
+    padding-left: 30rem;
+}
+.Wooten_Designs {
+    background: #F7FFF7;
+}
+.Wooten_Designs a {
+    color: #F7FFF7;
+    background: #e0d100;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 8px;
+}
+/* Projects
+------------------------------*/
+.projects {
+        background: #F7FFF7;
+     }
+.projects a {
+    color: #F7FFF7;
+    background: #e0d100;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 8px;
+}
+.projects a:hover {
+    background: #635d13;
+}
+         
+.projects .btn {
+    color: #F7FFF7;
+    background: #A1C6D7;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+.projects .btn:hover {
+    background: rgba(3, 72, 117, 0.8);
+}
+
+.Easy-Street-Logo {
+    width: 200px;
+    padding-left: 1rem;
+    }
+
+.Alpha-Organics {
+    width: 500px;
+    padding-left: 1rem;
+}
+
+.Woo10_businesscardmockup {
+    width: 600px;
+    padding-left: 1rem;
+}
+/* Work Experience
+-------------------------------*/
+.work-experience {
+     background: #A1C6D7;
+    }
+
+/* Education
+-------------------------------*/
+
+/* Contact Info
+-------------------------------*/
+
+footer {
+    background-color: #029AF5;
+    color: #F7FFF7;
+    height: auto;
+    padding-bottom: 0.5rem;
+}
+footer ul {
+
+}
+footer ul li {
+    text-decoration: none;
+    list-style-type: none;
+    margin: 1.25em;
+}
+footer ul li a:link {
+    color: #000000;
+
+}
